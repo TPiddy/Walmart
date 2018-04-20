@@ -1,0 +1,8 @@
+<div>
+  <img [src]="'./assets/' + car.img"/>
+  <p><span class="bold">Make:</span> {{car.make}}</p>
+  <p><span class="bold">Model:</span> {{car.model}}</p>
+  <p><span class="bold">Year:</span> {{car.year}}</p>
+  <p><span class="bold">Availability:</span> {{car.available}}</p>
+  <button *ngIf="car.available === 'Available'">Buy Now</button>
+</div>

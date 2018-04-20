@@ -1,0 +1,19 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1>
+    FancyCars
+  </h1>
+</div>
+<div>
+  <h2>Inventory</h2>
+  <select [(ngModel)]="sort" (change)="changeSort()">
+    <option value="name">Sort By Name</option>
+    <option value="availability">Sort By Availability</option>
+  </select>
+  <div>
+    <div *ngFor="let car of cars">
+      <car-component [car]="car"></car-component>
+    </div>
+  </div>
+</div>
+

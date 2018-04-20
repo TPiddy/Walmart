@@ -1,0 +1,72 @@
+[
+  {
+    "make": "Audi",
+    "model": "A5",
+    "year": 2014,
+    "img": "./images/a5.jpg",
+    "available": "Out of Stock"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "img": "./images/civic.jpg",
+    "available": "Available"
+  },
+  {
+    "make": "Lexus",
+    "model": "RX 350",
+    "year": 2009,
+    "img": "./images/lexus.jpg",
+    "available": "Available"
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2018,
+    "img": "./images/camry.jpg",
+    "available": "Unavailable"
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "img": "./images/mustang.jpg",
+    "available": "Out of Stock"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2014,
+    "img": "./images/camaro.jpg",
+    "available": "Available"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2010,
+    "img": "./images/highlander.jpg",
+    "available": "Unavailable"
+  },
+  {
+    "make": "Mercedes Benz",
+    "model": "ML 350",
+    "year": 2015,
+    "img": "./images/mercedes.jpg",
+    "available": "Available"
+  },
+  {
+    "make": "Acura",
+    "model": "TSX",
+    "year": 2011,
+    "img": "./images/acura.jpg",
+    "available": "Out of Stock"
+  },
+  {
+    "make": "Nissan",
+    "model": "Murano",
+    "year": 2017,
+    "img": "./images/murano.jpg",
+    "available": "Available"
+  }
+]
